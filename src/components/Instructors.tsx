@@ -4,73 +4,73 @@ import { AnimatedTooltip } from "./ui/animated-tooltip";
 const instructors = [
     {
         id: 1,
-        name: 'Dwight Schrute',
+        name: 'Travis Head',
         designation: 'Python Expert',
         image:
-            'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGF2YXRhcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=800&q=60',
+            'https://tse3.mm.bing.net/th?id=OIP.WXfd-Kjc_gfv-Cy3WUDC5gHaE_&pid=Api&P=0&h=220',
     },
     {
         id: 2,
-        name: 'Toby Flenderson',
+        name: 'Dawid Warner',
         designation: 'Frontend Expert',
         image:
-            'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=3540&q=80',
+            'https://tse2.mm.bing.net/th?id=OIP.HutR8DeHsF04QUw8Y0vTjwHaEK&pid=Api&P=0&h=220',
     },
     {
         id: 3,
-        name: 'Stanley Hudson',
+        name: 'Mitchell Marsh',
         designation: 'Database Expert',
         image:
-            'https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YXZhdGFyfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60',
+            'https://tse3.mm.bing.net/th?id=OIF.E6iFRJmbX5rHn%2buDC0bTNA&pid=Api&P=0&h=220',
     },
     {
         id: 4,
-        name: 'Jim Halpert',
+        name: 'Steve Smith',
         designation: 'Backend Expert',
         image:
-            'https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXZhdGFyfGVufDB8fDB8fHww&auto=format&fit=crop&w=800&q=60',
+            'https://tse2.mm.bing.net/th?id=OIP.e3tKqSRN567IYrQRvhZY8wHaFj&pid=Api&P=0&h=220',
     },
     {
         id: 5,
-        name: 'Pam Beesly',
+        name: 'Glenn Maxwell',
         designation: 'Full Stack Expert',
         image:
-            'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NHwxNzM0OTM2NHx8ZW58MHx8fHw%3D&w=1000&q=80',
+            'https://tse1.mm.bing.net/th?id=OIP.UKnnu0oiRdgG2wCP-hznhQHaEK&pid=Api&P=0&h=220',
     },
     {
         id: 6,
-        name: 'Michael Scott',
+        name: 'Marcus Stoinis',
         designation: 'SQA Expert',
         image:
-            'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTB8MTczNDkzNjR8fGVufDB8fHx8&w=1000&q=80',
+            'https://tse2.mm.bing.net/th?id=OIP.uZFtK1cMC6tbQ9d7VPGTFAHaJQ&pid=Api&P=0&h=220',
     },
     {
         id: 7,
-        name: 'Andre Gomez',
+        name: 'Mitchell Starc',
         designation: 'Cloud Computing Expert',
         image:
-            'https://images.unsplash.com/photo-1599566150163-29194dcaad36?ixlib=rb-4.0.3&auto=format&fit=crop&w=463&h=363.1372549019608&q=60',
+            'https://tse3.mm.bing.net/th?id=OIP.xSnA0twlhZK6CI5uTmMFsQAAAA&pid=Api&P=0&h=220',
     },
     {
         id: 8,
-        name: 'Cristian Romero',
+        name: 'Patrick Cummins',
         designation: 'Project Management Expert',
         image:
-            'https://images.unsplash.com/photo-1557862921-37829c790f19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8M3wxNzM0OTM2NHx8ZW58MHx8fHw%3D&w=1000&q=80',
+            'https://tse3.mm.bing.net/th?id=OIP.bLoE04wVW2ELfeSUiKgRFgHaE8&pid=Api&P=0&h=220',
     },
     {
         id: 9,
-        name: 'Nicholas Otamendi',
+        name: 'Adam Zampa',
         designation: 'Data Science Expert',
         image:
-            'https://images.unsplash.com/photo-1543984613-f55ca6a1ba35?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8N3w5NzE0NTI3OXx8ZW58MHx8fHw%3D&w=1000&q=80',
+            'https://tse2.mm.bing.net/th?id=OIP.roQPdbJbYo7V16UguhPPtAHaEK&pid=Api&P=0&h=220',
     },
     {
         id: 10,
-        name: 'Pam Beesly',
+        name: 'Josh Hazlewood',
         designation: 'MS Office Expert',
         image:
-            'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8M3wyNTY5MzYzfHxlbnwwfHx8fA%3D%3D&w=1000&q=80',
+            'https://tse3.mm.bing.net/th?id=OIP.0xyLnXJQh2Zivju-X5wc6wHaJR&pid=Api&P=0&h=220',
     },
 ];
 
