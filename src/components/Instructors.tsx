@@ -58,20 +58,6 @@ const instructors = [
         image:
             'https://tse3.mm.bing.net/th?id=OIP.bLoE04wVW2ELfeSUiKgRFgHaE8&pid=Api&P=0&h=220',
     },
-    {
-        id: 9,
-        name: 'Adam Zampa',
-        designation: 'Data Science Expert',
-        image:
-            'https://tse2.mm.bing.net/th?id=OIP.roQPdbJbYo7V16UguhPPtAHaEK&pid=Api&P=0&h=220',
-    },
-    {
-        id: 10,
-        name: 'Josh Hazlewood',
-        designation: 'MS Office Expert',
-        image:
-            'https://tse3.mm.bing.net/th?id=OIP.0xyLnXJQh2Zivju-X5wc6wHaJR&pid=Api&P=0&h=220',
-    },
 ];
 
 function Instructors() {
