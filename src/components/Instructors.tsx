@@ -18,10 +18,10 @@ const instructors = [
     },
     {
         id: 3,
-        name: 'Mitchell Marsh',
+        name: 'Jos Buttler',
         designation: 'Database Expert',
         image:
-            'https://tse3.mm.bing.net/th?id=OIF.E6iFRJmbX5rHn%2buDC0bTNA&pid=Api&P=0&h=220',
+            'https://tse2.mm.bing.net/th?id=OIP.DSe3mPXCTilsRILhUiGUzAHaE8&pid=Api&P=0&h=220',
     },
     {
         id: 4,
@@ -32,17 +32,17 @@ const instructors = [
     },
     {
         id: 5,
-        name: 'Glenn Maxwell',
+        name: 'Ricky Ponting',
         designation: 'Full Stack Expert',
         image:
-            'https://tse1.mm.bing.net/th?id=OIP.UKnnu0oiRdgG2wCP-hznhQHaEK&pid=Api&P=0&h=220',
+            'https://tse3.mm.bing.net/th?id=OIP.V_V2tQza5JeAblbQRt30tAHaEK&pid=Api&P=0&h=220',
     },
     {
         id: 6,
-        name: 'Marcus Stoinis',
+        name: 'Kumar Sangakara',
         designation: 'SQA Expert',
         image:
-            'https://tse2.mm.bing.net/th?id=OIP.uZFtK1cMC6tbQ9d7VPGTFAHaJQ&pid=Api&P=0&h=220',
+            'https://tse1.mm.bing.net/th?id=OIP.FGTzfE4F2kkDtqs1FscPwgHaEK&pid=Api&P=0&h=220',
     },
     {
         id: 7,
